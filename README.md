@@ -92,13 +92,13 @@ There are no textbooks for this course. Any texts or articles used will be avail
 
 #### Platforms
 
-This course relies on the [GitHub](https://www.github.com), Discord, and [Jupyter](https://jupyter.cs.allegheny.edu/) platforms. Your work will be assigned and evaluated using these platforms and official course communication will take place through them. You are expected to sign up for accounts and remain active on these platforms throughout the semester.
+This course relies on the [GitHub](https://www.github.com), Discord, YouTube, and [Jupyter](https://jupyter.cs.allegheny.edu/) platforms. Your work will be assigned and evaluated using these platforms and official course communication will take place through them. You are expected to sign up for accounts and remain active on these platforms throughout the semester.
 
 ##### A note on use of class platforms
 
-These platforms are for our use only. To use them, you'll need to be logged in using your Allegheny College Google Accounts. Moreover, by remaining enrolled in this class, you agree _not_ to share these resources with anyone _outside of_ our course.
+These platforms are for our use only. To use them, you'll need to register and be logged into accounts associated with your Allegheny College email. Moreover, by remaining enrolled in this class, you agree _not_ to share these resources with anyone _outside of_ our course.
 
-This provision, while it seems minor, is extremely important in making sure that our course community stays a healthy one.
+This provision, while seemingly minor, is extremely important in making sure that our course community stays a healthy one.
 
 #### Media
 
