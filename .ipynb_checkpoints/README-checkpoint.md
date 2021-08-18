@@ -6,10 +6,13 @@ This repository hosts materials which describe the structure and operation this 
 
 * [Syllabus](#Syllabus)
 * [Course schedule](https://chompe.rs/fa-2021-schedule)
-* [Course Discord channel]()
 * [Course Jupyter server](https://jupyter.cs.allegheny.edu)
 * [Office hours appointment calendar](https://chompe.rs/office-hours)
 * [Student Support Ticket system](https://chompe.rs/support-tickets)
+
+### Discord
+
+You will receive an invite to our course Discord channel in an email before the semester begins.
 
 ## Syllabus
 
@@ -89,7 +92,7 @@ There are no textbooks for this course. Any texts or articles used will be avail
 
 #### Platforms
 
-This course relies on the [GitHub](https://www.github.com), [Discord](), and [Jupyter](https://jupyter.cs.allegheny.edu/) platforms. Your work will be assigned and evaluated using these platforms and official course communication will take place through them. You are expected to sign up for accounts and remain active on these platforms throughout the semester.
+This course relies on the [GitHub](https://www.github.com), Discord, and [Jupyter](https://jupyter.cs.allegheny.edu/) platforms. Your work will be assigned and evaluated using these platforms and official course communication will take place through them. You are expected to sign up for accounts and remain active on these platforms throughout the semester.
 
 ##### A note on use of class platforms
 
@@ -153,7 +156,7 @@ As the above list is, admittedly, unexhaustive, there are many ways that your wo
 
 ###### Recorded content
 
-I will be recording _some_ class content. However, you will not be depicted in any class recordings though I may refer to you by preferred name. This is most significant in that you may wish to ask questions during recording sessions. Here, you may ask verbally or through the course [Discord]().
+I will be recording _some_ class content. However, you will not be depicted in any class recordings though I may refer to you by preferred name. This is most significant in that you may wish to ask questions during recording sessions. Here, you may ask verbally or through the course Discord.
 
 #### Lab assignments
 
