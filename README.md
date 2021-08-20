@@ -39,7 +39,7 @@ A day dedicated to computer-less activities which highlight the concepts and pro
 
 #### Digital day(s)
 
-Exploring concepts using computer-based activities (i.e. code) to demonstrate the concepts reviewed on Analog day(s). This will take the form of a small "problem" to solve through code. 
+Exploring concepts using computer-based activities (i.e. code) to demonstrate the concepts reviewed on Analog day(s). This will take the form of a small "problem" to solve through the medium of code.
 
 #### Lab session(s)
 
@@ -49,11 +49,13 @@ Sessions which present a moderate task to complete which incorporates a majority
 
 A session during which individual teams present a wrap-up of the concepts the course learned during a given week. Each team will be required to complete this once during the semester. In addition, the classroom floor is open to any and all unanswered questions generated over the course of a given week. The instructor may employ additional activities or short "just-in-time" discussions to review concepts.
 
+Details regarding presentations will be distributed to the class as a whole beginning in the first full week.
+
 ### Contact
 
 * Instructor: Douglas Luman
 * Email: dluman@allegheny.edu
-* Telephone: +1 814 332 2136
+* Telephone: `+1 814 332 2136`
 
 ### Office hours
 
@@ -120,7 +122,7 @@ By the end of this course, you will be able to:
 |Category           |Percentage |Point value|
 |-------------------|-----------|-----------|
 |Class Participation|20%        |200 pts.   |
-|Worksheets         |20%        |200 pts.   |
+|Activities         |20%        |200 pts.   |
 |Lab Assignments    |30%        |300 pts.   |
 |Quizzes            |10%        |100 pts.   |
 |Course project     |20%        |200 pts.   |
