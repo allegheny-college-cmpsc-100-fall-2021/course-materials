@@ -26,7 +26,7 @@ Each group's session must contain the following:
 * An incomplete example activity which the group designs in consultation with the instructor that focuses on what the group found most challenging during the week
   * This should focus on one or two concepts rather than _everything_ from a given week
   * The instructor will write this example
-  * The questions or requests presented by the group may (and likely should guide this activity)
+  * The questions or requests presented by the group may (and likely should) guide this activity
   * The group should aim to teach their solution to the class
 * (Optionally) The group may choose to develop an analog activity. This would take the place of an incomplete example _or_ could complement/supplement it.
 
