@@ -1,5 +1,7 @@
 # CMPSC 100: Fall 2021, Rewind Sessions
 
+![Be kind, rewind](https://github.com/allegheny-college-cmpsc-100-fall-2021/course-materials/blob/media/media/cmpsc-100-course-rewind.png)
+
 This document serves as a guide to the Friday Rewind sessions. Groups should consult this as they plan a _minimum_ 15-minute presentation on the Fridays for which they are responsible. These dates are available via [the course schedule](https://chompe.rs/fa-2021-schedule).
 
 Activities and solutions will be posted to this repository on a weekly basis. Ideally, your group should spend 1-2 hours working on this presentation.
